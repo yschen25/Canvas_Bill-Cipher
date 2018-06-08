@@ -1,7 +1,7 @@
 # Canvas-Bill_Cipher
 
-    * Using Canvas to draw the character whose name is Bill Cipher
-    * Gravity Fall is worth to see it!!
+         * Using Canvas to draw the character whose name is Bill Cipher
+         * Gravity Fall is worth to see it!!
 
 ## Demo
 <br />
